@@ -1,0 +1,12 @@
+{
+    "Special_Keyrings":[
+    {"code":"product01","image":"a_bb6f806b044e46cfbf8c3ae96f63615c.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Margesherwood","check":"","name":"Margesherwood Wood Keyring with T-Shirt White Pink","benefit1":"","benefit2":"","discount":"","price": 68000 ,"kind":"즉시 구매가"},
+    {"code":"product02","image":"a_83d66b09c0d3426a85a5a7c73eb247a7.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Glowny","check":"","name":"Glowny I'm Lony Keyring","benefit1":"","benefit2":"","discount":"","price":40000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_a83cc22b1ad94f7188ecb82a4dd53e07.png","span":"./images/sec_wish/icon_wish.svg","brand":"Cosymosy","check":"","name":"Cosymosy Ugly Bird Keyring White","benefit1":"","benefit2":"","discount":"","price":30000,"kind":"즉시 구매가"},
+    {"code":"product04","image":"a_1db77207c6f441c8b39cda95927971d9.png","span":"./images/sec_wish/icon_wish.svg","brand":"Matin Kim","check":"","name":"Matin Kim Black Bunny Toy Keyring Black","benefit1":"","benefit2":"","discount":"","price":43000,"kind":"즉시 구매가"},
+    {"code":"product05","image":"a_0f4256d0d4b045b78cf5ef6976f9ccef.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Jellycat","check":"","name":"Jellycat Bartholomew Bear Bag Charm Brown","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":41000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"a_ce01c62b726a4a908c37d13f41931188.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Margesherwood","check":"","name":"Margesherwood Wood Keyring White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":75000,"kind":"즉시 구매가"},
+    {"code":"product07","image":"a_242ea0779044481bb2a8f38342a72ca9.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Godashin","check":"","name":"Godashin Cats Keyring Black","benefit1":"","benefit2":"","discount":"","price":37000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"a_81a20b1089f54840b9529d83c1531f0d.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Music & Goods","check":"","name":"NewJeans Tokki Merchandise Fluffy Keyring White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":45000,"kind":"즉시 구매가"}
+    ]
+}

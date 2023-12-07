@@ -1,0 +1,12 @@
+{
+    "Daily_Summer_Bags":[
+    {"code":"product01","image":"a_4b9d715353d542cba747e87253220a26.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"Hai Little Silk Bag Light Green","benefit1":"적립","benefit2":"","discount":"10%","price": 115200 ,"kind":"구매가"},
+    {"code":"product02","image":"a_5ef2ef8d7b594f1da4731dd6c7bceb33.png","span":"./images/sec_wish/icon_wish.svg","brand":"Matin Kim","check":"","name":"Matin Kim Big Buckle Bag White","benefit1":"","benefit2":"","discount":"","price":109000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_0a0ac97739754043b45054cb2c60dda8.png","span":"./images/sec_wish/icon_wish.svg","brand":"COS","check":"","name":"COS Nylon Crossbody Saddle Bag Light Grey","benefit1":"","benefit2":"","discount":"","price":104000,"kind":"즉시 구매가"},
+    {"code":"product04","image":"a_4bc7e393cc004811aa8b482ccd8f1f96.png","span":"./images/sec_wish/icon_wish.svg","brand":"Arc'teryx","check":"","name":"Arc'teryx Heliad 15 Backpack Wicker Sprint","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":147000,"kind":"즉시 구매가"},
+    {"code":"product05","image":"a_396e5b69c58e4ddda78a0c412ac10e7d.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"COS","check":"","name":"COS Quilted Mini Bag Pink","benefit1":"","benefit2":"","discount":"","price":125000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"a_6a1095d27c724bd49785db0d11305d51.png","span":"./images/sec_wish/icon_wish.svg","brand":"Telfar","check":"","name":"Telfar Small Shopping Bag White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":321000,"kind":"즉시 구매가"},
+    {"code":"product07","image":"a_f087827a79624dacb74699c3879cff92.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"Hai Franny Bag Light Blue","benefit1":"적립","benefit2":"","discount":"10%","price":133200,"kind":"구매가"},
+    {"code":"product08","image":"p_1b1c45bd95b643a89579928bab1137c1.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"NIEEH","check":"","name":"Nieeh Women Square Bag Mini Cream","benefit1":"적립","benefit2":"무료배송","discount":"","price":142000,"kind":"구매가"}
+    ]
+}

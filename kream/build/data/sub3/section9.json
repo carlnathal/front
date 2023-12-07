@@ -1,0 +1,12 @@
+{
+    "Shining_Silvers":[
+    {"code":"product01","image":"p_f2a729b6ef034226b37fc52f7db53218.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"SENTIMENTS","check":"","name":"Sentiments No.353 Hair Pin 2 Set XXL Push Pin Clip Silver","benefit1":"적립","benefit2":"무료배송","discount":"","price": 28000 ,"kind":"구매가"},
+    {"code":"product02","image":"p_bcce1a0cb9854d479f743dc3e173c1c0.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"SENTIMENTS","check":"","name":"[KREAM Exclusive] Sentiments No.370 Star Hair Scrunchy Silver","benefit1":"적립","benefit2":"무료배송","discount":"","price":22000,"kind":"구매가"},
+    {"code":"product03","image":"p_b5469b46806f434bac2ac9d449a204a7.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"SENTIMENTS","check":"","name":"Sentiments No.350 Necklace Silver","benefit1":"적립","benefit2":"무료배송","discount":"","price":36000,"kind":"구매가"},
+    {"code":"product04","image":"p_8938dd11c5f44463b2280cb3c340d038.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"SENTIMENTS","check":"","name":"Sentiments No.352 Hair Pin 3 Set Push Pin Clip Silver","benefit1":"적립","benefit2":"무료배송","discount":"","price":24000,"kind":"구매가"},
+    {"code":"product05","image":"p_37344b96540a4dc38143155f1083e1b2.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"SENTIMENTS","check":"","name":"Sentiments No.278 Ring Silver","benefit1":"적립","benefit2":"무료배송","discount":"","price":38000,"kind":"구매가"},
+    {"code":"product06","image":"p_15a725d363e342b89a2e06d43f22afe3.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"SENTIMENTS","check":"","name":"[KREAM Exclusive] Sentiments No.370 Star Hair Scrunchy Black","benefit1":"적립","benefit2":"무료배송","discount":"","price":22000,"kind":"구매가"},
+    {"code":"product07","image":"p_b05325997593476eaffae9c391a57adf.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"SENTIMENTS","check":"","name":"Sentiments No.260 Necklace","benefit1":"적립","benefit2":"무료배송","discount":"","price":68000,"kind":"구매가"},
+    {"code":"product08","image":"p_5977b2fd66da44739bacdd1d2b41905a.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"SENTIMENTS","check":"","name":"Sentiments No.360 Bracelet Silver","benefit1":"적립","benefit2":"무료배송","discount":"","price":52000,"kind":"구매가"}
+    ]
+}

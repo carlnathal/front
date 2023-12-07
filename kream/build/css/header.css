@@ -1,0 +1,87 @@
+#header {
+  width: 100%;
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  left: 0;
+  background: #fff;
+}
+#header > .container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+#header > .container > .gap {
+  width: 100%;
+  padding: 0 40px;
+}
+#header > .container > .gap > .content {
+  width: 100%;
+}
+#header > .container > .gap > .content > .row1 {
+  padding: 8px 0 0 0;
+  width: 100%;
+}
+#header > .container > .gap > .content > .row1 > .container ul {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+#header > .container > .gap > .content > .row1 > .container ul li .row1-link {
+  margin: 0 0 0 25px;
+  font-size: 12px;
+  letter-spacing: -0.06px;
+  color: rgba(34, 34, 34, 0.8);
+}
+#header > .container > .gap > .content > .row2 {
+  width: 100%;
+  padding: 20px 0;
+}
+#header > .container > .gap > .content > .row2 > .container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#header > .container > .gap > .content > .row2 > .container .logo-box a img {
+  width: 120px;
+  height: 24px;
+}
+#header > .container > .gap > .content > .row2 > .container .nav-box ul {
+  display: flex;
+  width: 362px;
+  height: 28px;
+  justify-content: space-between;
+}
+#header > .container > .gap > .content > .row2 > .container .nav-box ul li a {
+  color: rgb(34, 34, 34);
+  letter-spacing: -0.27px;
+  font-size: 18px;
+  line-height: 28px;
+}
+#header > .container > .gap > .content > .row2 > .container .nav-box ul li a img {
+  width: 28px;
+  height: 28px;
+}
+#header > .container > .gap > .content > .row3 {
+  width: 100%;
+}
+#header > .container > .gap > .content > .row3 ul {
+  display: flex;
+  margin: 0 0 10px 0;
+}
+#header > .container > .gap > .content > .row3 ul li:nth-child(1) a {
+  margin: 0 10px 0 0;
+}
+#header > .container > .gap > .content > .row3 ul li a {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0 10px;
+  padding: 15px 0 6px;
+  color: #000;
+}
+#header > .container > .gap > .content > .row3 ul li a:focus {
+  padding: 0 0 5px 0;
+  border-bottom: 2px solid #000;
+  font-weight: 700;
+}

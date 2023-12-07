@@ -1,0 +1,12 @@
+{
+    "Essential_Yeezy_Slides":[
+    {"code":"product01","image":"a_4b3dc52acb254f3dadf96eda2fdcdc5f.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Slide Bone 2022","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price": 186000 ,"kind":"즉시 구매가"},
+    {"code":"product02","image":"a_0ea44145956b4f0ea49ac2befa4b2601.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Slide Onyx","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":135000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_732acfe3e16941c79b7186a895791d30.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Slide Pure - Re-Release Ver.","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":227000,"kind":"즉시 구매가"},
+    {"code":"product04","image":"a_5dcc72ab90cf4d94b73e644714950ad2.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Slide Resin 2022","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":133000,"kind":"즉시 구매가"},
+    {"code":"product05","image":"a_95f7c78e693f45f9998c27b366929f56.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Slide Pure","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":228000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"a_c5f4ccfe77214e779bcfd07a2b0600de.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Slide Ochre","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":160000,"kind":"구매가"},
+    {"code":"product07","image":"a_f4e22843929340f1acfcd56efcfc1714.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Slide Flax","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":144000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"a_296c297d54944114a758768ac2be6ec8.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Slide Glow Green 2022","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":138000,"kind":"즉시 구매가"}
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "My_Trendy_Caps":[
+    {"code":"product01","image":"a_56dfd19fefca4394be067f72c2f27aa8.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Wooyoungmi","check":"","name":"Wooyoungmi Logo Ball Cap Black - 23SS","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price": 168000 ,"kind":"즉시 구매가"},
+    {"code":"product02","image":"a_e55cfa12445144a69bd5d20069e6fb86.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Supreme","check":"","name":"Supreme Washed Chino Twill Camp Cap Olive - 23SS","benefit1":"","benefit2":"","price":135000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_5d9f2b81c887485380ecb0c4381f8cdd.png","span":"./images/sec_wish/icon_wish.svg","brand":"Celine","check":"","name":"Celine Baseball Cap in Cotton Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":605000,"kind":"즉시 구매가"},
+    {"code":"product04","image":"a_6a47b829f618429099e46b55f2510d0d.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Diesel","check":"","name":"Diesel C-Pavel Logo Patches Baseball Cap White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":250000,"kind":"즉시 구매가"},
+    {"code":"product05","image":"a_d8075fc2594546d687459a1c5952e3f3.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Stussy","check":"","name":"Stussy SS Link 9Twenty Cap Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":124000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"a_27875e55aaeb44c48a928359622f0b3f.png","span":"./images/sec_wish/icon_wish.svg","brand":"Thug Club","check":"","name":"Thug Club x MCM Tribal Leather Cap Black","benefit1":"","benefit2":"","price":185000,"kind":"구매가"},
+    {"code":"product07","image":"a_3779013d476a438888c773f5abaf8ac8.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Peaceminusone","check":"","name":"Peaceminusone Mesh Cap #1 Black","benefit1":"","benefit2":"","price":514000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"a_7dbd5a7885c542b580b1a3b96aaf47af.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"The Museum Visitor","check":"","name":"The Museum Visitor x Jon Burgerman Hand Painted Pizza & Poch Corduroy Ball Cap Brown","benefit1":"","benefit2":"","price":89000,"kind":"즉시 구매가"}
+    ]
+}

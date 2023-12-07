@@ -1,0 +1,173 @@
+#footer {
+  width: 100%;
+}
+#footer .container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 50px 40px;
+  border-top: 1px solid rgba(34, 34, 34, 0.5019607843);
+}
+#footer .container .gap .content {
+  display: flex;
+  flex-flow: column;
+}
+#footer .container .gap .content .row1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0 55px 0;
+  border-bottom: 1px solid rgba(34, 34, 34, 0.5019607843);
+}
+#footer .container .gap .content .row1 .left-box {
+  display: flex;
+}
+#footer .container .gap .content .row1 .left-box .left-txt {
+  padding: 0 20px 0 0;
+}
+#footer .container .gap .content .row1 .left-box .left-txt h2 {
+  font-size: 16px;
+  color: #222;
+  font-weight: 600;
+}
+#footer .container .gap .content .row1 .left-box .left-txt ul {
+  padding: 16px 0 0 0;
+}
+#footer .container .gap .content .row1 .left-box .left-txt ul li {
+  margin: 12px 0 0 0;
+}
+#footer .container .gap .content .row1 .left-box .left-txt ul li a {
+  font-size: 14px;
+  color: rgba(34, 34, 34, 0.5019607843);
+}
+#footer .container .gap .content .row1 .left-box .right-txt {
+  padding: 0 0 0 100px;
+}
+#footer .container .gap .content .row1 .left-box .right-txt h2 {
+  font-size: 16px;
+  color: #222;
+  font-weight: 600;
+}
+#footer .container .gap .content .row1 .left-box .right-txt ul {
+  padding: 16px 0 0 0;
+}
+#footer .container .gap .content .row1 .left-box .right-txt ul li {
+  margin: 12px 0 0 0;
+}
+#footer .container .gap .content .row1 .left-box .right-txt ul li a {
+  font-size: 14px;
+  color: rgba(34, 34, 34, 0.5019607843);
+}
+#footer .container .gap .content .row1 .right-box ul li {
+  display: flex;
+}
+#footer .container .gap .content .row1 .right-box ul li h2 {
+  font-size: 16px;
+  color: #222;
+  font-weight: 600;
+  padding: 0 0 8px 0;
+}
+#footer .container .gap .content .row1 .right-box ul li h3 {
+  font-size: 13px;
+  color: rgba(34, 34, 34, 0.5019607843);
+  line-height: 20px;
+  letter-spacing: -0.7px;
+}
+#footer .container .gap .content .row1 .right-box ul li h4 {
+  font-size: 13px;
+  padding: 8px 0 0 0;
+  color: #222;
+  margin: 0 0 10px 0;
+}
+#footer .container .gap .content .row1 .right-box .button {
+  width: 100px;
+  height: 34px;
+  background-color: #000;
+  color: #fff;
+  font-weight: 700;
+  font-size: 18px;
+  border: 0;
+  cursor: pointer;
+  font-size: 10px;
+  line-height: 34px;
+  text-align: center;
+  border-radius: 4px;
+}
+#footer .container .gap .row2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0 0 0;
+}
+#footer .container .gap .row2 .left-txt2 ul {
+  display: flex;
+  padding: 0 0 15px 0;
+}
+#footer .container .gap .row2 .left-txt2 ul li {
+  margin: 0 20px 0 0;
+}
+#footer .container .gap .row2 .left-txt2 ul li a {
+  font-size: 14px;
+  color: #000;
+  letter-spacing: -0.21px;
+}
+#footer .container .gap .row2 .left-txt2 ul li .alone {
+  color: #000;
+  font-weight: 700;
+}
+#footer .container .gap .row2 .left-txt2 p {
+  max-width: 650px;
+  font-size: 12px;
+  color: rgba(34, 34, 34, 0.5019607843);
+  line-height: 20px;
+}
+#footer .container .gap .row2 .left-txt2 p .blank {
+  margin: 0 8px 0 0;
+}
+#footer .container .gap .row2 .left-txt2 p a {
+  text-decoration: underline;
+  color: rgba(34, 34, 34, 0.5019607843);
+}
+#footer .container .gap .row2 .right-txt2 a {
+  margin: 0 10px;
+}
+#footer .container .gap .row2 .right-txt2 a img {
+  width: 24px;
+  height: 24px;
+}
+#footer .container .gap .row3 {
+  padding: 40px 0 8px;
+}
+#footer .container .gap .row3 h3 {
+  font-size: 12px;
+  color: #222;
+  font-weight: 700;
+  letter-spacing: -0.6px;
+}
+#footer .container .gap .row3 h4 {
+  font-size: 11px;
+  letter-spacing: -0.6px;
+}
+#footer .container .gap .row3 h4 a {
+  text-decoration: underline;
+  font-size: 11px;
+}
+#footer .container .gap .row4 {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0 0 0;
+}
+#footer .container .gap .row4 .left-txt4 {
+  width: 100%;
+}
+#footer .container .gap .row4 .left-txt4 .txt {
+  max-width: 605px;
+  font-size: 12px;
+  color: rgba(34, 34, 34, 0.5019607843);
+}
+#footer .container .gap .row4 .right-txt4 {
+  display: flex;
+  align-items: flex-end;
+}
+#footer .container .gap .row4 .right-txt4 .copyright {
+  font-size: 12px;
+  color: rgba(34, 34, 34, 0.5019607843);
+}

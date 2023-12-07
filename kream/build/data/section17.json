@@ -1,0 +1,17 @@
+{
+    "Daily_Summer_Shorts":[
+    {"code":"product01","image":"a_2abc791318414426bdcb693fa2d644f3.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"Nike x Off-White NRG Woven Shorts Black - Asia","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":135000,"kind":"즉시 구매가"},
+    {"code":"product02","image":"p_f9598de9e6854710ad3252fa805d132b.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Stussy","check":"","name":"Stussy Big Stock Water Shorts Lime","benefit1":"","benefit2":"","price":168000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_70f2bb010b1b4d36adcbc74a2c98a8bf.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Thom Browne","check":"","name":"Thom Browne Tech 4-Bar Drawstring Waist Board Swim Shorts Medium Grey","benefit1":"","benefit2":"","price":453000,"kind":"즉시 구매가"},
+    {"code":"product04","image":"a_b7eaffa833ab47449f2eb39e0346b9da.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Isabel Marant","check":"","name":"(W) Isabel Marant Mifikiae Shorts Ecru - 22SS","benefit1":"","benefit2":"","price":113000,"kind":"즉시 구매가"},
+    {"code":"product05","image":"p_83ad1c9ba15d429c95b2305fb3dc2fc8.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Stussy","check":"","name":"Stussy x Cactus Plant Flea Market Shorts Black","benefit1":"","benefit2":"","price":279000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"p_e6ce34e12c764107ad6a0b78d999d607.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Safarispot","check":"","name":"Safarispot Women 1/2 Basic Safari Swim Pants Red","benefit":"적립","price":59000,"kind":"구매가"},
+    {"code":"product07","image":"p_b3851073ec9b4067838b7d1e8455821d.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"IAB Studio","check":"","name":"IAB Studio Track Shorts Navy - 21SS","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":119000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"a_0ce6fc0257344bb587b19630f48dadeb.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Supreme","check":"","name":"Supreme Small Box Sweatshorts Ash Grey - 22FW","benefit1":"","benefit2":"","price":280000,"kind":"즉시 구매가"},
+    {"code":"product09","image":"a_b31c9821c70e4f568a4ea00af0f0fb7b.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"AMI","check":"","name":"AMI de Coeur Long Swim Shorts Black","benefit1":"","benefit2":"","price":230000,"kind":"즉시 구매가"},
+    {"code":"product10","image":"a_a171a0324ed14feea1043f048ee80476.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"Nike NRG Solo Swoosh Fleece Shorts Dark Grey Heather - Asia","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":69000,"kind":"즉시 구매가"},
+
+    {"code":"product11","image":"a_7dc8cb4ab4f346deb268b1e63e28cb88.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Stussy","check":"","name":"Stussy 4x4 Mesh Shorts Camo","benefit1":"","benefit2":"","price":188000,"kind":"즉시 구매가"},
+    {"code":"product12","image":"a_dea583deb1404c79bd8c723991610908.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Palace","check":"","name":"Palace x Umbro Classic Shorts Dark Navy - 22FW","benefit1":"","benefit2":"","price":200000,"kind":"즉시 구매가"}
+    ]
+}

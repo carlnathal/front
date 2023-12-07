@@ -1,0 +1,579 @@
+{
+    "tech":[
+        {
+            "brand":"Apple",
+            "descE":"Apple AirPods Max Silver (Korean Ver.)",
+            "descK":"애플 에어팟 맥스 실버 (국내 정식 발매 제품)",
+            "price":"669,000원","img":"tech001.png","wish" : "1454","review":"1324"
+            },
+            
+            {
+               
+            "brand":"Apple",
+            "descE":"Apple AirPods Pro 2nd Gen (Korean Ver.)",
+            "descK":"애플 에어팟 프로 2세대 (국내 정식 발매 제품)",
+            "price":"301,000원","img":"tech002.png","wish" : "1543","review":"5645"
+            },
+            
+            
+            {
+            "brand":"Apple",
+            "descE":"Apple iPad Air 5th Gen Wifi 64GB Space Gray (Korean Ver.)",
+            "descK":"애플 아이패드 에어 5세대 와이파이 64기가 스페이스 그레이 (국내 정식 발매 제품)",
+            "price":"759,000원","img":"tech003.png","wish" : "4542","review":"41245"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch SE 44mm GPS Midnight Aluminum Case with Sport Band Midnight (Korean Ver.)",
+            "descK":"애플 워치 SE 44mm GPS 미드나이트 알루미늄 케이스 스포츠 밴드 미드나이트 (국내 정식 발매 제품)",
+            "price":"361,000원","img":"tech200.jpg","wish" : "1546","review":"44545"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple AirPods Pro with MagSafe Charging Case (Korean Ver.)",
+            "descK":"애플 에어팟 프로 맥세이프 호환 (국내 정식 발매 제품)",
+            "price":"269,000원","img":"tech005.png","wish" : "9851","review":"3257"
+            },
+            {
+            "brand":"Sony",
+            "descE":"Sony WH-1000XM5 Silver (Korean Ver.)",
+            "descK":"소니 WH-1000XM5 실버 (국내 정식 발매 제품)",
+            "price":"397,000원","img":"tech006.png","wish" : "15410","review":"58758"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPhone 14 Pro 256GB Silver&nbsp;(Korean Ver.)",
+            "descK":"애플 아이폰 14 프로 256기가 실버 (국내 정식 발매 제품)",
+            "price":"1,399,000원","img":"tech007.png","wish" : "1165","review":"22654"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch SE 44mm GPS Silver Aluminum Case with Sport Band White (Korean Ver.)",
+            "descK":"애플 워치 SE 44mm GPS 실버 알루미늄 케이스 스포츠 밴드 화이트 (국내 정식 발매 제품)",
+            "price":"349,000원","img":"tech008.png","wish" : "52544","review":"22587"
+            },
+            {
+            "brand":"Bose",
+            "descE":"Bose QC45 Triple Black (Korean Ver.)",
+            "descK":"보스 QC45 트리플 블랙 (국내 정식 발매 제품)",
+            "price":"305,000원","img":"tech009.png","wish" : "7487","review":"11452"
+            },
+            {
+            "brand":"Marshall",
+            "descE":"Marshall Major IV Black (Korean Ver.)",
+            "descK":"마샬 메이저 4 블랙(국내 정식 발매 제품)",
+            "price":"203,000원","img":"tech010.png","wish" : "4542","review":"21114"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple AirPods Max Space Gray (Korean Ver.)",
+            "descK":"애플 에어팟 맥스 스페이스 그레이 (국내 정식 발매 제품)",
+            "price":"670,000원","img":"tech011.png","wish" : "15415","review":"56444"
+            },
+            {   
+            "brand":"Bose",
+            "descE":"Bose QC45 White Smoke (Korean Ver.)",
+            "descK":"보스 QC45 화이트 스모크 (국내 정식 발매 제품)",
+            "price":"319,000원","img":"tech012.png","wish" : "216545","review":"32132"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPhone 13 Mini 128GB Starlight (Korean Ver.)",
+            "descK":"애플 아이폰 13 미니 128기가 스타라이트 (국내 정식 발매 제품)",
+            "price":"783,000원","img":"tech013.png","wish" : "52454","review":"11474"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Airpods 3rd Gen with MagSafe Charging Case (Korean Ver.)",
+            "descK":"애플 에어팟 3세대 맥세이프 호환 (국내 정식 발매 제품)",
+            "price":"223,000원","img":"tech014.png","wish" : "4511","review":"48141"
+            },
+            {
+            "brand":"Dyson",
+            "descE":"Dyson Airwrap Multi Styler Complete Long Nickel Copper (Korean Ver.)",
+            "descK":"다이슨 에어랩 멀티 스타일러 컴플리트 롱 니켈 코퍼 (국내 정식 발매 제품)",
+            "price":"652,000원","img":"tech015.png","wish" : "12256","review":"23121"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPhone 14 Pro 128GB Silver (Korean Ver.)",
+            "descK":"애플 아이폰 14 프로 128기가 실버 (국내 정식 발매 제품)",
+            "price":"1,300,000원","img":"tech016.png","wish" : "141222","review":"3257"
+            },
+            {
+            "brand":"Sony",
+            "descE":"Sony WH-1000XM4 Platinum Silver (Korean Ver.)",
+            "descK":"소니 WH-1000XM4 플래티넘 실버 (국내 정식 발매 제품)",
+            "price":"344,000원","img":"tech017.png","wish" : "45421","review":"3257"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch SE 40mm GPS Silver Aluminum Case with Sport Band White (Korean Ver.)",
+            "descK":"애플 워치 SE 40mm GPS 실버 알루미늄 케이스 스포츠 밴드 화이트 (국내 정식 발매 제품)",
+            "price":"326,000원","img":"tech018.png","wish" : "5421","review":"424242"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Apple Pencil 2nd Gen (Korean Ver.)",
+            "descK":"애플 펜슬 2세대 (국내 정식 발매 제품)",
+            "price":"169,000원","img":"tech019.png","wish" : "65384","review":"4231"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPhone 14 Pro 128GB Space Black&nbsp;(Korean Ver.)",
+            "descK":"애플 아이폰 14 프로 128기가 스페이스 블랙 (국내 정식 발매 제품)",
+            "price":"1,320,000원","img":"tech165.png","wish" : "12212","review":"45674"
+            },
+            {
+            "brand":"Dyson",
+            "descE":"Dyson Supersonic Hair Dryer Professional Silver Nickel (Korean Ver.)",
+            "descK":"다이슨 슈퍼소닉 헤어 드라이어 프로페셔널 실버 니켈 (국내 정식 발매 제품)",
+            "price":"507,000원","img":"tech021.jpg","wish" : "13254","review":"5645"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPhone 14 Pro 256GB Space Black (Korean Ver.)",
+            "descK":"애플 아이폰 14 프로 256기가 스페이스 블랙 (국내 정식 발매 제품)",
+            "price":"1,434,000원","img":"tech226.jpg","wish" : "454445","review":"121211"
+            },
+            {
+            "brand":"Nintendo",
+            "descE":"Nintendo Switch OLED White (Korean Ver.)",
+            "descK":"닌텐도 스위치 OLED 화이트 (국내 정식 발매 제품)",
+            "price":"383,000원","img":"tech023.jpg","wish" : "45444","review":"345345"
+            },
+            {
+            "brand":"Samsung",
+            "descE":"Samsung Galaxy Book3 Pro 14 i5 256GB SSD / 16GB RAM Graphite (Korean Ver.)",
+            "descK":"삼성 갤럭시 북3 프로 14 i5 256GB SSD / 16GB 메모리 그래파이트 (국내 정식 발매 제품)",
+            "price":"1,350,000원","img":"tech024.jpg","wish" : "456456","review":"1231"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch Ultra 49mm Titanium Case with Ocean Band Midnight (Korean Ver.)",
+            "descK":"애플 워치 울트라 49mm 티타늄 케이스 오션 밴드 미드나이트 (국내 정식 발매 제품)",
+            "price":"955,000원","img":"tech025.jpg","wish" : "678890","review":"3454"
+            },
+            {
+            "brand":"Nintendo",
+            "descE":"Nintendo Switch OLED Neon Blue Neon Red (Korean Ver.)",
+            "descK":"닌텐도 스위치 OLED 네온 블루 네온 레드 (국내 정식 발매 제품)",
+            "price":"372,000원","img":"tech026.jpg","wish" : "454756","review":"3237"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch Series 8 45mm GPS Midnight Aluminium Case with Sport Band Midnight (Korean Ver.)",
+            "descK":"애플 워치 8 45mm GPS 미드나이트 알루미늄 케이스 스포츠 밴드 미드나이트 (국내 정식 발매 제품)",
+            "price":"540,000원","img":"tech027.jpg","wish" : "3434","review":"32457"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch SE 40mm GPS Midnight Aluminum Case with Sport Band Midnight (Korean Ver.)",
+            "descK":"애플 워치 SE 40mm GPS 미드나이트 알루미늄 케이스 스포츠 밴드 미드나이트 (국내 정식 발매 제품)",
+            "price":"324,000원","img":"tech028.jpg","wish" : "2343","review":"45345"
+            },
+            {
+            "brand":"Nintendo",
+            "descE":"Nintendo Switch OLED The Legend of Zelda Tears of The Kingdom Edition (Korean Ver.)",
+            "descK":"닌텐도 스위치 OLED 젤다의 전설 티어스 오브 더 킹덤 에디션 (국내 정식 발매 제품)",
+            "price":"407,000원","img":"tech029.jpg","wish" : "213324","review":"5656"
+            },
+            {
+            "brand":"Samsung",
+            "descE":"Samsung Galaxy S23 Ultra 512GB Cream (Korean Ver.)",
+            "descK":"삼성 갤럭시 S23 울트라 512기가 크림 (국내 정식 발매 제품)",
+            "price":"1,380,000원","img":"tech030.jpg","wish" : "3434","review":"32257"
+            },
+            {
+            "brand":"Dyson",
+            "descE":"Dyson Airwrap Styler Volume And Shape Nickel Fuchsia (Korean Ver.)",
+            "descK":"다이슨 에어랩 스타일러 볼륨 앤 쉐이프 니켈 푸시아 (국내 정식 발매 제품)",
+            "price":"719,000원","img":"tech031.jpg","wish" : "23435","review":"8989"
+            },
+            {
+            "brand":"Samsung",
+            "descE":"Samsung Galaxy Buds2 Pro White (Korean Ver.)",
+            "descK":"삼성 갤럭시 버즈2 프로 화이트 (국내 정식 발매 제품)",
+            "price":"178,000원","img":"tech032.jpg","wish" : "6767","review":"2343"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Airpods 3rd Gen (Korean Ver.)",
+            "descK":"애플 에어팟 3세대 (국내 정식 발매 제품)",
+            "price":"219,000원","img":"tech033.jpg","wish" : "23232","review":"343456"
+            },
+            {
+            "brand":"Marshall",
+            "descE":"Marshall Major IV Brown (Korean Ver.)",
+            "descK":"마샬 메이저 4 브라운(국내 정식 발매 제품)",
+            "price":"202,000원","img":"tech034.jpg","wish" : "76676","review":"87765"
+            },
+            {
+            "brand":"Nintendo",
+            "descE":"Nintendo Switch The Legend of Zelda Tears of The Kingdom - Collector's Edition (with Title/Korean Ver.)",
+            "descK":"닌텐도 스위치 젤다의 전설 티어스 오브 더 킹덤 - 컬렉터즈 에디션 (타이틀 포함/국내 정식 발매 제품)",
+            "price":"179,000원","img":"tech035.jpg","wish" : "3434","review":"6778"
+            },
+            {
+            "brand":"Samsung",
+            "descE":"Samsung Galaxy Buds2 Pro Graphite (Korean Ver.)",
+            "descK":"삼성 갤럭시 버즈2 프로 그래파이트 (국내 정식 발매 제품)",
+            "price":"176,000원","img":"tech036.jpg","wish" : "3434","review":"7688"
+            },
+            {
+            "brand":"Nintendo",
+            "descE":"Nintendo Final Fantasy Pixel Remaster (Korean Ver.)",
+            "descK":"닌텐도 파이널 판타지 픽셀 리마스터 (국내 정식 발매 제품)",
+            "price":"200,000원","img":"tech037.jpg","wish" : "12123","review":"1234"
+            },
+            {
+            "brand":"Dyson",
+            "descE":"Dyson Airwrap Multi Styler Complete Long Vinca Blue Rose (Korean Ver.)",
+            "descK":"다이슨 에어랩 멀티 스타일러 컴플리트 롱 빈카 블루 로제 (국내 정식 발매 제품)",
+            "price":"685,000원","img":"tech038.jpg","wish" : "2344","review":"7899"
+            },
+            {
+            "brand":"Sony",
+            "descE":"Sony WH-1000XM5 Black (Korean Ver.)",
+            "descK":"소니 WH-1000XM5 블랙 (국내 정식 발매 제품)",
+            "price":"407,000원","img":"tech039.jpg","wish" : "2344","review":"1235"
+            },
+            {
+            "brand":"Sony",
+            "descE":"Sony Playstation 5 Digital Edition (SIEK 220V)",
+            "descK":"소니 플레이스테이션 5 디지털 에디션 (국내 정식 발매 제품)",
+            "price":"522,000원","img":"tech040.jpg","wish" : "89899","review":"34342"
+            },
+            {
+            "brand":"Dyson",
+            "descE":"Dyson Airwrap Multi Styler Complete Nickel Copper (Korean Ver.)",
+            "descK":"다이슨 에어랩 멀티 스타일러 컴플리트 니켈 코퍼 (국내 정식 발매 제품)",
+            "price":"640,000원","img":"tech041.jpg","wish" : "23434","review":"4556"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPad Pro 4th Gen 11-inch Wifi 128GB Space Gray (Korean Ver.)",
+            "descK":"애플 아이패드 프로 4세대 11인치 와이파이 128기가 스페이스 그레이 (국내 정식 발매 제품)",
+            "price":"1,030,000원","img":"tech042.png","wish" : "3234","review":"56767"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPad 9th Gen Wifi 64GB Space Gray (Korean Ver.)",
+            "descK":"애플 아이패드 9세대 와이파이 64기가 스페이스 그레이 (국내 정식 발매 제품)",
+            "price":"444,000원","img":"tech043.jpg","wish" : "12345","review":"5666"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPad Pro 6th Gen 12.9-inch Wifi 128GB Space Gray (Korean Ver.)",
+            "descK":"애플 아이패드 프로 6세대 12.9인치 와이파이 128기가 스페이스 그레이 (국내 정식 발매 제품)",
+            "price":"1,370,000원","img":"tech044.jpg","wish" : "34556","review":"56567"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPad Air 5th Gen Wifi 64GB Purple (Korean Ver.)",
+            "descK":"애플 아이패드 에어 5세대 와이파이 64기가 퍼플 (국내 정식 발매 제품)",
+            "price":"782,000원","img":"tech045.jpg","wish" : "343445","review":"5667"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPad Pro 4th Gen 11-inch Wifi 128GB Silver (Korean Ver.)",
+            "descK":"애플 아이패드 프로 4세대 11인치 와이파이 128기가 실버 (국내 정식 발매 제품)",
+            "price":"1,030,000원","img":"tech046.jpg","wish" : "343456","review":"5677"
+            },
+            {
+            "brand":"Xbox",
+            "descE":"Xbox Series X (220V)",
+            "descK":"엑스박스 시리즈 X (국내 정식 발매 제품)",
+            "price":"552,000원","img":"tech047.jpg","wish" : "2345","review":"1234"
+            },
+
+            {
+            "brand":"Dyson",
+            "descE":"Dyson Airwrap Multi Styler Complete Long Topaz Orange (Korean Ver.)",
+            "descK":"다이슨 에어랩 멀티 스타일러 컴플리트 롱 토파즈 오렌지 (국내 정식 발매 제품)",
+            "price":"709,000원","img":"tech049.jpg","wish" : "14575","review":"4836"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch Series 8 45mm GPS Silver Aluminium Case with Sport Band White (Korean Ver.)",
+            "descK":"애플 워치 8 45mm GPS 실버 알루미늄 케이스 스포츠 밴드 화이트 (국내 정식 발매 제품)",
+            "price":"555,000원","img":"tech050.jpg","wish" : "2778","review":"4578"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPad 9th Gen Wifi 64GB Silver (Korean Ver.)",
+            "descK":"애플 아이패드 9세대 와이파이 64기가 실버 (국내 정식 발매 제품)",
+            "price":"430,000원","img":"tech051.jpg","wish" : "4545","review":"6457"
+            },
+
+            {
+            "brand":"Apple",
+            "descE":"Apple iPhone 14 Pro Max 128GB Space Black&nbsp;(Korean Ver.)",
+            "descK":"애플 아이폰 14 프로 맥스 128기가 스페이스 블랙 (국내 정식 발매 제품)",
+            "price":"1,505,000원","img":"tech053.jpg","wish" : "34556","review":"5766"
+            },
+
+            {
+            "brand":"Nintendo",
+            "descE":"Nintendo Switch Animal Crossing Edition (Korean Ver.)",
+            "descK":"닌텐도 스위치 동물의 숲 에디션 (국내 정식 발매 제품)",
+            "price":"320,000원","img":"tech055.jpg","wish" : "1454","review":"1324"
+            },
+            {
+            "brand":"Supreme",
+            "descE":"Supreme x Bang &amp; Olufsen Explore Portable Speaker Red - 22SS",
+            "descK":"슈프림 x 뱅 앤 올룹슨 익스플로러 포터블 스피커 레드 - 22SS",
+            "price":"510,000원","img":"tech056.png","wish" : "1543","review":"5645"
+            },
+            {
+            "brand":"Samsung",
+            "descE":"Samsung Galaxy Tab S8 Ultra Wifi 128GB Graphite (Korean Ver.)",
+            "descK":"삼성 갤럭시 탭 S8 울트라 와이파이 128기가 그래파이트 (국내 정식 발매 제품)",
+            "price":"943,000원","img":"tech057.jpg","wish" : "4542","review":"41245"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch Series 8 45mm GPS Starlight Aluminium Case with Sport Band Starlight (Korean Ver.)",
+            "descK":"애플 워치 8 45mm GPS 스타라이트 알루미늄 케이스 스포츠 밴드 스타라이트 (국내 정식 발매 제품)",
+            "price":"510,000원","img":"tech058.jpg","wish" : "1546","review":"44545"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple iPhone 14 Pro 128GB Deep Purple (Korean Ver.)",
+            "descK":"애플 아이폰 14 프로 128기가 딥 퍼플 (국내 정식 발매 제품)",
+            "price":"1,407,000원","img":"tech059.jpg","wish" : "9851","review":"3257"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch Nike Series 7 45mm GPS Midnight Aluminum Case with Nike Sport Band Anthracite Black (Korean Ver.)",
+            "descK":"애플 워치 7 나이키 45mm GPS 미드나이트 알루미늄 케이스 나이키 스포츠 밴드 앤트러사이트 블랙 (국내 정식 발매 제품)",
+            "price":"480,000원","img":"tech060.jpg","wish" : "15410","review":"58758"
+            },
+            {
+            "brand":"Marshall",
+            "descE":"Marshall Acton III Bluetooth Black (Korean Ver.)",
+            "descK":"마샬 액톤 3 블루투스 블랙 (국내 정식 발매 제품)",
+            "price":"399,000원","img":"tech061.jpg","wish" : "1165","review":"22654"
+            },
+            {
+            "brand":"Samsung",
+            "descE":"Samsung Galaxy Tab S8+ Wifi 128GB Graphite (Korean Ver.)",
+            "descK":"삼성 갤럭시 탭 S8 플러스 와이파이 128기가 그래파이트 (국내 정식 발매 제품)",
+            "price":"890,000원","img":"tech062.jpg","wish" : "52544","review":"22587"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch Nike SE 40mm Cellular Space Gray Aluminum Case Nike Sport Band Anthracite Black USB C Type (Korean Ver.)",
+            "descK":"애플 워치 SE 나이키 40mm 셀룰러 스페이스 그레이 알루미늄 케이스 나이키 스포츠 밴드 앤트러사이트 블랙 USB C 타입 (국내 정식 발매 제품)",
+            "price":"330,000원","img":"tech063.jpg","wish" : "7487","review":"11452"
+            },
+            
+            
+            {
+            "brand":"Apple",
+            "descE":"Apple Watch SE 40mm GPS Silver Aluminum Case with Sport Band Abyss Blue (Korean Ver.)",
+            "descK":"애플 워치 SE 40mm GPS 실버 알루미늄 케이스 스포츠 밴드 어비스 블루 (국내 정식 발매 제품)",
+            "price":"302,000원","img":"tech064.png","wish" : "4542","review":"21114"
+            },
+            {
+            "brand":"Palace",
+            "descE":"Palace Polaroid Now Instant Camera Generation 2 Black - 23SS",
+            "descK":"팔라스 폴라로이드 나우 인스턴트 카메라 제너레이션 2 블랙 - 23SS",
+            "price":"479,000원","img":"tech065.jpg","wish" : "15415","review":"56444"
+            },
+            {
+            "brand":"Bose",
+            "descE":"Bose QC45 Midnight Blue (Korean Ver.)",
+            "descK":"보스 QC45 미드나잇 블루 (국내 정식 발매 제품)",
+            "price":"350,000원","img":"tech066.jpg","wish" : "216545","review":"32132"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x Ader Error iPhone Sticker Magsafe Case Clear",
+            "descK":"케이스티파이 x 아더에러 아이폰 스티커 맥세이프 케이스 클리어",
+            "price":"114,000원","img":"tech067.jpg","wish" : "52454","review":"11474"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple AirPods Pro (Korean Ver.)",
+            "descK":"애플 에어팟 프로 (국내 정식 발매 제품)",
+            "price":"281,000원","img":"tech068.jpg","wish" : "4511","review":"48141"
+            },
+            {
+            "brand":"Samsung",
+            "descE":"Samsung Galaxy Watch5 44mm Bluetooth Graphite (Korean Ver.)",
+            "descK":"삼성 갤럭시 워치5 44mm 블루투스 그래파이트 (국내 정식 발매 제품)",
+            "price":"268,000원","img":"tech069.jpg","wish" : "12256","review":"23121"
+            },
+            {
+            "brand":"Samsung",
+            "descE":"Samsung Galaxy Watch5 40mm Bluetooth Silver (Korean Ver.)",
+            "descK":"삼성 갤럭시 워치5 40mm 블루투스 실버 (국내 정식 발매 제품)",
+            "price":"242,000원","img":"tech070.png","wish" : "141222","review":"3257"
+            },
+            {
+            "brand":"Logitech",
+            "descE":"Logitech Pro X Superlight Wireless Gaming Mouse White (Korean Ver.)",
+            "descK":"로지텍 프로 X 슈퍼라이트 무선 게이밍 마우스 화이트 (국내 정식 발매 제품)",
+            "price":"139,000원","img":"tech071.png","wish" : "45421","review":"3257"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple AirPods 2nd Gen with Wireless Charing Case (Korean Ver.)",
+            "descK":"애플 에어팟 무선 충전 2세대 (국내 정식 발매 제품)",
+            "price":"210,000원","img":"tech072.png","wish" : "5421","review":"424242"
+            },
+            {
+            "brand":"Apple",
+            "descE":"Apple Apple Pencil 1st Gen (Korean Ver.)",
+            "descK":"애플 펜슬 1세대 (국내 정식 발매 제품)",
+            "price":"129,000원","img":"tech073.png","wish" : "65384","review":"4231"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x Ader Error Wavy Collectable AirPods Pro Case Blue",
+            "descK":"케이스티파이 x 아더에러 웨이비 컬렉터블 에어팟 프로 케이스 블루",
+            "price":"94,000원","img":"tech074.jpg","wish" : "12212","review":"45674"
+            },
+            {
+            "brand":"Supreme",
+            "descE":"Supreme x Mophie Snap+ Juice Pack Mini Red - 22FW",
+            "descK":"슈프림 x 모피 스냅+ 주스 팩 미니 레드 - 22FW",
+            "price":"189,000원","img":"tech075.png","wish" : "13254","review":"5645"
+            },
+            {
+            "brand":"Xbox",
+            "descE":"Xbox 4th Wireless Controller Carbon Black with Windows 10 Wireless Adapter  (Korean Ver.)",
+            "descK":"엑스박스 4세대 무선 컨트롤러 카본 블랙 윈도우 10용 무선 어댑터 포함 (국내 정식 발매 제품)",
+            "price":"127,000원","img":"tech076.jpg","wish" : "454445","review":"121211"
+            },
+            
+            
+            {
+            "brand":"Apple",
+            "descE":"Apple AirPods 2nd Gen (Korean Ver.)",
+            "descK":"애플 에어팟 유선 충전 2세대 (국내 정식 발매 제품)",
+            "price":"180,000원","img":"tech077.jpg","wish" : "45444","review":"345345"
+            },
+            {
+            "brand":"Supreme",
+            "descE":"Supreme BACtrack Go Keychain White - 18SS",
+            "descK":"슈프림 백트랙 고 키체인 화이트 - 18SS",
+            "price":"180,000원","img":"tech078.jpg","wish" : "456456","review":"1231"
+            },
+            {
+            "brand":"Marshall",
+            "descE":"Marshall Minor III Black (Korean Ver.)",
+            "descK":"마샬 마이너 3 블랙&nbsp;(국내 정식 발매 제품)",
+            "price":"170,000원","img":"tech079.png","wish" : "678890","review":"3454"
+            },
+            {
+            "brand":"Marshall",
+            "descE":"Marshall Willen Black &amp; Brass (Korean Ver.)",
+            "descK":"마샬 윌렌 블랙 &amp; 브래스&nbsp;(국내 정식 발매 제품)",
+            "price":"169,000원","img":"tech080.jpg","wish" : "454756","review":"3237"
+            },
+            {
+            "brand":"Wooyoungmi",
+            "descE":"Wooyoungmi iPhone Feather Case Black",
+            "descK":"우영미 아이폰 깃털 케이스 블랙",
+            "price":"114,000원","img":"tech081.png","wish" : "3434","review":"32457"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x Ader Error Galaxy Sticker Case Clear",
+            "descK":"케이스티파이 x 아더에러 갤럭시 스티커 케이스 클리어",
+            "price":"260,000원","img":"tech082.png","wish" : "2343","review":"45345"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x Darkr8m Studio Silver Stitch Logo AirPods Pro Case TPU Black",
+            "descK":"케이스티파이 x 다크룸 스튜디오 실버 스티치 로고 에어팟 프로 케이스 TPU 블랙",
+            "price":"77,000원","img":"tech083.jpg","wish" : "213324","review":"5656"
+            },
+            {
+            "brand":"Logitech",
+            "descE":"Logitech Pro X Superlight Wireless Gaming Mouse Pink (Korean Ver.)",
+            "descK":"로지텍 프로 X 슈퍼라이트 무선 게이밍 마우스 핑크 (국내 정식 발매 제품)",
+            "price":"144,000원","img":"tech084.jpg","wish" : "3434","review":"32257"
+            },
+            {
+            "brand":"Logitech",
+            "descE":"Logitech G502 X PLUS Wireless RGB Gaming Mouse Black (Korean Ver.)",
+            "descK":"로지텍 G502 X 플러스 무선 RGB 게이밍 마우스 블랙 (국내 정식 발매 제품)",
+            "price":"140,000원","img":"tech085.jpg","wish" : "23435","review":"8989"
+            },
+            
+            
+            {
+            "brand":"Nintendo",
+            "descE":"Nintendo Switch The Legend of Zelda Tears of The Kingdom (Korean Ver.)",
+            "descK":"닌텐도 스위치 젤다의 전설 티어스 오브 더 킹덤 (국내 정식 발매 제품)",
+            "price":"73,000원","img":"tech086.jpg","wish" : "6767","review":"2343"
+            },
+            {
+            "brand":"Sony",
+            "descE":"Sony Playstation 5 DualSense Wireless Controller White (Korean Ver.)",
+            "descK":"소니 플레이스테이션 5 듀얼센스 무선 컨트롤러 화이트 (국내 정식 발매 제품)",
+            "price":"69,000원","img":"tech087.png","wish" : "23232","review":"343456"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x Thisisneverthat Pebble Collectible AirPods Pro Case Grey",
+            "descK":"케이스티파이 x 디스이즈네버댓 페블 컬렉티블 에어팟 프로 케이스 그레이",
+            "price":"105,000원","img":"tech088.jpg","wish" : "76676","review":"87765"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x Starbucks Icon Impact iPhone Case Clear",
+            "descK":"케이스티파이 x 스타벅스 아이콘 임팩트 아이폰 케이스 클리어",
+            "price":"55,000원","img":"tech089.jpg","wish" : "3434","review":"6778"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x IAB Studio iPad Single Black Logo Case Clear",
+            "descK":"케이스티파이 x 아이앱 스튜디오 아이패드 싱글 블랙 로고 케이스 클리어",
+            "price":"125,000원","img":"tech090.jpg","wish" : "3434","review":"7688"
+            },
+            {
+            "brand":"Aviemuah",
+            "descE":"Aviemuah Ave Phone Knob Rhodium",
+            "descK":"아비에무아 아비에 폰 놉 로듐",
+            "price":"74,000원","img":"tech091.jpg","wish" : "12123","review":"1234"
+            },
+            {
+            "brand":"Monamhee",
+            "descE":"Monamhee Beulpingi Beads Strap Black",
+            "descK":"모남희 블핑이 비즈 스트랩 블랙",
+            "price":"40,000원","img":"tech092.jpg","wish" : "2344","review":"7899"
+            },
+            {
+            "brand":"Matin Kim",
+            "descE":"Matin Kim Bunny Strap Strong Black",
+            "descK":"마뗑킴 버니 스트랩 스트롱 블랙",
+            "price":"60,000원","img":"tech093.jpg","wish" : "2344","review":"1235"
+            },
+            {
+            "brand":"Dyson",
+            "descE":"Dyson Airwrap Multi Styler Complete Long Blue Copper (Korean Ver.)",
+            "descK":"다이슨 에어랩 멀티 스타일러 컴플리트 롱 블루 코퍼 (국내 정식 발매 제품)",
+            "price":"685,000원","img":"tech094.jpg","wish" : "89899","review":"34342"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x Ader Error Magsafe Wallet Noir",
+            "descK":"케이스티파이 x 아더에러 맥세이프 월렛 느와르",
+            "price":"120,000원","img":"tech095.jpg","wish" : "23434","review":"4556"
+            },
+            {
+            "brand":"Casetify",
+            "descE":"Casetify x Ader Error Magsafe Wallet Noir",
+            "descK":"케이스티파이 x 아더에러 맥세이프 월렛 느와르",
+            "price":"120,000원","img":"tech095.jpg","wish" : "23434","review":"4556"
+            }
+            
+    ]
+}
+
+
+

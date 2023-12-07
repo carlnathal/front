@@ -1,0 +1,12 @@
+{
+    "Touch_of_Yellow":[
+    {"code":"product01","image":"a_7dec88447e3d46f9a23d1b20df299bcd.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"[KREAM Exclusive] Hai x Reqins Ballerina Shoes Yellow","benefit1":"","benefit2":"","discount":"10%","price": 151200 ,"kind":"구매가"},
+    {"code":"product02","image":"a_9cbc4365cc0d430ba687a60f40e43a17.png","span":"./images/sec_wish/icon_wish.svg","brand":"Onitsuka Tiger","check":"","name":"Onitsuka Tiger Mexico 66 Yellow Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":165000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"p_07e3f736e5224f2fa2e2691a06d1ae61.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"House of Sunny","check":"","name":"House of Sunny Sliced Lemons Shirt","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"15%","price":174200,"kind":"구매가"},
+    {"code":"product04","image":"a_08a7caffc67747bab4600063df4451df.png","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"Nike Zoom Vomero 5 Yellow Ochre","benefit1":"","benefit2":"","discount":"","price":193000,"kind":"구매가"},
+    {"code":"product05","image":"a_98bc78236f5f4b9491846ffce84b8240.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Ganni","check":"","name":"(W) Ganni Yellow Smiley Relaxed T-Shirt Bright White","benefit1":"","benefit2":"","discount":"","price":77000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"a_f4673088547549bab9a8bfaf89129efd.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"Hai Little Silk Bag Yellow","benefit1":"","benefit2":"","discount":"10%","price":115200,"kind":"구매가"},
+    {"code":"product07","image":"a_b6e22c34fac446f59dc9fc945d693f07.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"(W) Adidas Gazelle Bold Almost Yellow Cloud White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":199000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"a_cc42019b61f64e50b4a5f20317528ea2.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Palace","check":"","name":"Palace Tri-Twister T-Shirt Mellow Yellow - 23SS","benefit1":"","benefit2":"","discount":"","price":108000,"kind":"즉시 구매가"}
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "New_Highest_Bids":[
+    {"code":"product01","image":"a_e88ccecd1a0a42a6b67c1d4edf62fdca.png","span":"./images/sec_wish/icon_wish.svg","brand":"Autry","check":"","name":"Autry Medalist Low Leather Sneakers White Silver","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":90000,"kind":"즉시 판매가"},
+    {"code":"product02","image":"a_69ed6b81f56a40f8a82cab8059861203.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Louis Vuitton","check":"","name":"Louis Vuitton Monogram Chain Bracelet Silver","price":760000,"kind":"즉시 판매가"},
+    {"code":"product03","image":"a_6db62344e47b4a6595e2fec7a3b1ee57.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Samba OG Royal Blue","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":230000,"kind":"즉시 판매가"},
+    {"code":"product04","image":"a_46e94424f6b649de94191fe18632dcd6.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Lego","check":"","name":"Lego Corner Garage","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":286000,"kind":"즉시 판매가"},
+    {"code":"product05","image":"a_abcb28cbf5eb4cf08fb1cf719cd2cf03.png","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"Nike x Jarritos SB Dunk Low Phantom and Malachite","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":560000,"kind":"즉시 판매가"},
+    {"code":"product06","image":"a_d8b25ee4fcec4e4cb515071662fa01d7.png","span":"./images/sec_wish/icon_wish.svg","brand":"Crocs","check":"","name":"Crocs Echo Marbled Clog Bone Multi","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":121000,"kind":"즉시 판매가"},
+    {"code":"product07","image":"a_8b2011eda57343a895b4594d5036a2ce.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"Nike NSW Authentics Varsity Jacket Black - Asia","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":98000,"kind":"즉시 판매가"},
+    {"code":"product08","image":"a_3f26321792e848a58f0b451b14e1a9a2.png","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"Nike x Drake Nocta Air Force 1 Low SP Certified Lover Boy White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":260000,"kind":"즉시 판매가"},
+    {"code":"product09","image":"a_1ee129fbc0f74eedbbd6cd4c951fd315.png","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"(W) Nike Dunk Low SE Flip","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":265000,"kind":"즉시 판매가"},
+    {"code":"product10","image":"a_a048631458e448be95207552ae3f6cec.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Supreme","check":"","name":"Supreme x Nike Arc Corduroy Hooded Jacket Red Camo - 22SS","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":333000,"kind":"즉시 판매가"}
+    ]
+}

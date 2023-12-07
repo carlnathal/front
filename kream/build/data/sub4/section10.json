@@ -1,0 +1,17 @@
+{
+    "PRTPRTPSHOP_23SS":[
+    {"code":"product01","image":"p_35cd95b3be474b2a8a850e8be253b1c1.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"icon-check.svg","name":"Helmut Lang Core Logo T-Shirt White","benefit1":"적립","benefit2":"무료배송","discount":"","price": 218000 ,"kind":"구매가"},
+    {"code":"product02","image":"p_59fb365437ac4e878ecc3c8b35e7a0af.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Eytys Titan Stone Indigo","benefit1":"적립","benefit2":"무료배송","discount":"","price":377000,"kind":"구매가"},
+    {"code":"product03","image":"p_b195eedd70384e9194ee01bb951f403f.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Helmut Lang Cargo Shirt Placid Blue","benefit1":"적립","benefit2":"무료배송","discount":"","price":384000,"kind":"구매가"},
+    {"code":"product04","image":"p_af87fa4405774b9d9e75ffc1b202b0d7.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Jacquemus Le Marrone Zipped Cargo Pants Brown","benefit1":"적립","benefit2":"무료배송","discount":"","price":720000,"kind":"구매가"},
+    {"code":"product05","image":"p_d9339d5a6d5340b2b8bae038142ded55.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Magliano SRL T-Shirt Oyster Beige","benefit1":"적립","benefit2":"무료배송","discount":"","price":350000,"kind":"구매가"},
+    {"code":"product06","image":"p_b62188a124fe49d38dfdc51202021c90.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Salomon XT-6 Gore-Tex Black Ebony","benefit1":"적립","benefit2":"무료배송","discount":"","price":290000,"kind":"구매가"},
+    {"code":"product07","image":"p_16e42c9320d94337812d042ae9ef61aa.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Helmut Lang Core Crewneck Vapor Heather","benefit1":"적립","benefit2":"무료배송","discount":"","price":285000,"kind":"구매가"},
+    {"code":"product08","image":"p_aa1b29c250e04b00a7fc39817ce60a48.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Magliano Provincia Sport Pants Purple","benefit1":"적립","benefit2":"무료배송","discount":"","price":829000,"kind":"구매가"},
+    {"code":"product09","image":"p_3056ea7ffc9f46fa9459fdbda8dfbd94.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Magliano SRL T-Shirt White","benefit1":"적립","benefit2":"무료배송","discount":"","price":350000,"kind":"구매가"},
+    {"code":"product10","image":"p_c00ed74449ea4f1eaa10e6a034fc2f4d.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Eytys Benz Camel","benefit1":"적립","benefit2":"무료배송","discount":"","price":377000,"kind":"구메가"},
+
+    {"code":"product11","image":"p_0f146d4fcdae419b9e57cdc23a9d8717.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"MM6 Short Sleeve T-Shirt Black","benefit1":"적립","benefit2":"무료배송","discount":"","price":198000,"kind":"구매가"},
+    {"code":"product12","image":"p_db277bd4299e4f3c81a1bfe573a4a476.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"PRTPRTSHOP","check":"","name":"Eytys Fugu Suede Azure","benefit1":"적립","benefit2":"무료배송","discount":"","price":357000,"kind":"구매가"}
+    ]
+}

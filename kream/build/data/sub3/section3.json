@@ -1,0 +1,17 @@
+{
+    "For_Women":[
+    {"code":"product01","image":"p_f5a1e2c74be44beba7c45ca81ade0777.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Keen","check":"","name":"Keen Woman Shanti KR Edition Silde Ivory","benefit1":"적립","benefit2":"무료배송","discount":"15%","price": 84100 ,"kind":"즉시 구매가"},
+    {"code":"product02","image":"a_a727cc3764d3474da47cb4383baca81a.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"Hai Vera Bag Black Ivory","benefit1":"적립","benefit2":"","discount":"10%","price":142200,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_770d1e185e9645a29d98bd2c7237face.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Reqins","check":"","name":"Reqins Women Harmony Blanc Cuir","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":133200,"kind":"즉시 구매가"},
+    {"code":"product04","image":"p_3de54b801aba4b7b803210cbd3a726d4.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"YUSE","check":"","name":"[KREAM Exclusive / Pre-Order] Yuse Women Mesh Layered Half Sleeve T-Shirt Ivory Blue","benefit1":"적립","benefit2":"","discount":"","price":64000,"kind":"구매가"},
+    {"code":"product05","image":"a_7d7e8393d3434e61afa85014a36edad0.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Celine","check":"","name":"(W) Celine Triomphe 01 Sunglasses in Acetate Black","benefit1":"","benefit2":"","discount":"","price":629000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"a_98b6dfb5a65c4e0b9d9a24ea409c18ee.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Calvin Klein","check":"","name":"(W) Calvin Klein x Jennie Baby Fit Crop Short Sleeve T-Shirt White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":99000,"kind":"즉시 구매가"},
+    {"code":"product07","image":"a_50416361b5af4ad79c397d19c9ae3ca1.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Crystal Haze","check":"","name":"Crystal Haze Nostalgia Bear with Classic Connector Silver Black","benefit1":"","benefit2":"","discount":"","price":50000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"a_e2cae3c78da740979e7592b268455a3e.png","span":"./images/sec_wish/icon_wish.svg","brand":"Moonstar","check":"","name":"Moonstar 810s ET027 Marke Modi White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":178000,"kind":"즉시 구매가"},
+    {"code":"product09","image":"p_608b5051828446a6ad3c79d208a5baef.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Art of Field","check":"","name":"[Pre Order] Art of Field Packable Short Sleeved Half Jacket Ice","benefit1":"적립","benefit2":"무료배송","discount":"","price":129000,"kind":"즉시 구매가"},
+    {"code":"product10","image":"a_f8cccfeeca5a473196a47b9153ee1f8e.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Polo Ralph Lauren","check":"","name":"Polo Ralph Lauren Classic Fit T-Shirt Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","discount":"","price":89000,"kind":"즉시 구매가"},
+
+    {"code":"product11","image":"a_5dd2db559b494602a601d6c3e9be4500.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Pandora","check":"","name":"(W) Pandora Openwork Heart Ring Sterling Silver","benefit1":"","benefit2":"","discount":"","price":37000,"kind":"즉시 구매가"},
+    {"code":"product12","image":"a_7ac1e8e4c7bf47a6b91f0d107204245a.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Satin Small Shoulder Bag Black","benefit1":"","benefit2":"","discount":"","price":73000,"kind":"즉시 구매가"}
+    ]
+}

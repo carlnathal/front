@@ -1,0 +1,25 @@
+
+{
+    "slide":[
+        {"img":"slide1.webp", "desc" : "스니커즈" },
+        {"img":"slide2.webp", "desc" : "플랫" },
+        {"img":"slide3.webp", "desc" : "티셔츠" },
+        {"img":"slide4.webp", "desc" : "미니백" },
+        {"img":"slide5.webp", "desc" : "샤넬" },
+        {"img":"slide6.webp", "desc" : "에르메스" },
+        {"img":"slide7.webp", "desc" : "숄더백" },
+        {"img":"slide8.webp", "desc" : "크로스백" },
+        {"img":"slide9.webp", "desc" : "볼캡" },
+        {"img":"slide10.webp", "desc" : "후드" },
+        {"img":"slide11.webp", "desc" : "스웨트셔츠" },
+        {"img":"slide12.webp", "desc" : "가디건" },
+        {"img":"slide13.webp", "desc" : "바지" },
+        {"img":"slide14.webp", "desc" : "카드 지갑" },
+        {"img":"slide15.webp", "desc" : "반지갑" },
+        {"img":"slide16.webp", "desc" : "롤렉스" },
+        {"img":"slide17.webp", "desc" : "목걸이" },
+        {"img":"slide18.webp", "desc" : "귀걸이" },
+        {"img":"slide19.webp", "desc" : "키링" }
+
+    ]
+  }

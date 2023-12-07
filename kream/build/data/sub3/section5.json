@@ -1,0 +1,16 @@
+{
+    "New_Arrivals_Women":[
+    {"code":"product01","image":"a_6e4206c3d8fe419c9b2815035f2589ec.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"(W) Adidas Gazelle Indoor Bliss Pink","benefit1":"","benefit2":"","discount":"","price": 279000 ,"kind":"즉시 구매가"},
+    {"code":"product02","image":"a_435a9fca2b30428ba474b8d4d4799e1c.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"Hai Little Silk Bag Ivory","benefit1":"적립","benefit2":"","discount":"10%","price":115200,"kind":"구매가"},
+    {"code":"product03","image":"a_a645e508001d4aed9298aa3bafb1bf56.png","span":"./images/sec_wish/icon_wish.svg","brand":"Adidas","check":"","name":"Adidas Yeezy Boost 350 V2 Carbon Beluga","benefit1":"","benefit2":"","discount":"","price":324000,"kind":"즉시 구매가"},
+    {"code":"product04","image":"p_7db0722ce21e4c1d880612390716503d.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"TILLDAWN","check":"","name":"[Pre-Order] Tilldawn Women CCCP 1/2 Sleeve Black","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":79200,"kind":"구매가"},
+    {"code":"product05","image":"p_4140162469d24bd9a0e276132b69a0e2.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"YUSE","check":"","name":"[KREAM Exclusive / Pre-Order] Yuse Women Hook Closing Layered Cardigan Top Charcoal","benefit1":"적립","benefit2":"","discount":"","price":94000,"kind":"구매가"},
+    {"code":"product06","image":"a_c842c52cea2e4871b57e12aea8a65d39.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"Hai x Reqins Ballerina Shoes Pink","benefit1":"적립","benefit2":"","discount":"10%","price":151200,"kind":"구매가"},
+    {"code":"product07","image":"p_4ca20b59aa6940229877192a5cb1916e.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Rabbit Crew T-Shirt Navy","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":43200,"kind":"구매가"},
+    {"code":"product08","image":"a_05df8998ffb44968a160f17d4e96cac3.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Loewe","check":"","name":"Loewe Anagram Brooch Metal Gold","benefit1":"","benefit2":"","discount":"","price":389000,"kind":"즉시 구매가"},
+    {"code":"product09","image":"a_398935ecebda46b5b1653ee5620f1e0c.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Miu Miu","check":"","name":"(W) Miu Miu Metal Bracelet Gold","benefit1":"","benefit2":"","discount":"","price":"-","kind":"즉시 구매가"},
+    {"code":"product10","image":"a_824ad24227b443ceb579f8a0755a4c5a.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"UGG","check":"","name":"UGG x Opening Ceremony Tasman Chestnut","benefit1":"적립","benefit2":"무료배송","discount":"","price":498000,"kind":"구매가"},
+
+    {"code":"product11","image":"a_79889b75e39e4056b0bc37e21edeca48.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"NIEEH","check":"","name":"Nieeh Women Turtle Bag Dark Black","benefit1":"적립","benefit2":"무료배송","discount":"","price":202000,"kind":"구매가"}
+    ]
+}

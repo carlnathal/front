@@ -1,0 +1,12 @@
+{
+    "Light_Card_Holders":[
+    {"code":"product01","image":"a_74c2d368aa944fff92c069ac196c314a.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Bottega Veneta","check":"","name":"Bottega Veneta Credit Card Case Calfskin Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price": 418000 ,"kind":"즉시 구매가"},
+    {"code":"product02","image":"a_dc56dbca397844afaf2d7f21faa0a53c.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hermes","check":"","name":"Hermes Calvi Card Holder Epsom & Palladium Noir","benefit1":"","benefit2":"","price":505000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_866e713ec2ee4754a2ae0fb81dd7e5f4.png","span":"./images/sec_wish/icon_wish.svg","brand":"Gucci","check":"","name":"Gucci Micro GG Ssima Card Case Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":182000,"kind":"즉시 구매가"},
+    {"code":"product04","image":"a_ed039d1a22b24acfbbe362414da0d20c.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Saint Laurent","check":"","name":"Saint Laurent Tiny Monogram Shiny Leather Card Case Black","benefit1":"","benefit2":"","price":249000,"kind":"즉시 구매가"},
+    {"code":"product05","image":"a_cc71d21a8f0b46c0ae72de7ac3aa6d0e.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Prada","check":"","name":"Prada Saffiano Leather Card Holder Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":367000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"p_1d205423b4514f71bf795038c3f89f2a.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Dior","check":"","name":"Dior Card Holder Black Dior Oblique Jacquard","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":534000,"kind":"구매가"},
+    {"code":"product07","image":"a_992e56ebd493410ba2e96f73826ac652.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Montblanc","check":"","name":"Montblanc Sartorial 5cc Pocket Card Holder Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":167000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"a_9a35a1b3491c4ef0a6dda608c33c37fb.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Celine","check":"","name":"Celine Card Holder Black","benefit1":"","benefit2":"","price":317000,"kind":"즉시 구매가"}
+    ]
+}

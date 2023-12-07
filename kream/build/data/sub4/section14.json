@@ -1,0 +1,17 @@
+{
+    "Core_Bags_for_Your_Style":[
+    {"code":"product01","image":"a_5657b0e9101942a1a40e844d945c76a1.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"The Museum Visitor","check":"icon-check.svg","name":"The Museum Visitor Multi Sprayed Backpack 2.0","benefit1":"적립","benefit2":"무료배송","discount":"","price": 193000 ,"kind":"즉시 구매가"},
+    {"code":"product02","image":"p_9f90d865005346888804fbfa85d1e48e.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Saenginstudios","check":"","name":"Saenginstudios Women Ribbon Crochet Bag Red","benefit1":"적립","benefit2":"","discount":"32%","price":148000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_f7f78c3c2fe8475eb97b240e093d143c.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"Hai Vera Bag Light Blue Ivory","benefit1":"적립","benefit2":"","discount":"10%","price":142200,"kind":"즉시 구매가"},
+    {"code":"product04","image":"p_44873671149f406c8611adf9ccc80190.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Emis","check":"","name":"Emis Women New Leopard Corduroy Eco Bag Beige","benefit1":"적립","benefit2":"","discount":"","price":32000,"kind":"구매가"},
+    {"code":"product05","image":"p_a68cefe17db64680a7aa1a8589d7a09b.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Saenginstudios","check":"","name":"Saenginstudios Women Universe Suede Chain Bag Black","benefit1":"적립","benefit2":"","discount":"","price":318000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"a_8f6193ec7db64a36abe9e9e15e780e1a.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Nuer","check":"","name":"Nuer Women Vieve Mini Bag Ivory Stripe","benefit1":"적립","benefit2":"무료배송","discount":"","price":295000,"kind":"구매가"},
+    {"code":"product07","image":"a_cc2d929d07c742f89bd0b309d8fdbb7e.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Epingler","check":"","name":"Epingler Women Butter Bar Bag Tan Brown","benefit1":"적립","benefit2":"","discount":"","price":399000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"p_6587536e22274adda8d62c6279b2cb23.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"YIEYIE","check":"","name":"Yieyie Women Sophia Bag Cowboy Denim","benefit1":"적립","benefit2":"무료배송","discount":"","price":128000,"kind":"즉시 구매가"},
+    {"code":"product09","image":"p_d3a395cea6344939a2c29867851cadee.png","span":"./images/sec_wish/icon_wish.svg","brand":"KINDERSALMON","check":"","name":"Kindersalmon Mila Bag Large Black","benefit1":"적립","benefit2":"","discount":"","price":298000,"kind":"즉시 구매가"},
+    {"code":"product10","image":"p_6af0445c59574bd0982c79f5b3de6d73.png","span":"./images/sec_wish/icon_wish.svg","brand":"Print Bakery","check":"","name":"Yuya Hashizume Eyewater Tote Bag - Yellow","benefit1":"적립","benefit2":"","discount":"","price":35000,"kind":"구메가"},
+
+    {"code":"product11","image":"p_7de97b26c4dd461aa3f57a5ec75072e0.png","span":"./images/sec_wish/icon_wish.svg","brand":"Hai","check":"","name":"Hai Nelly Bag Pink","benefit1":"적립","benefit2":"","discount":"10%","price":205200,"kind":"즉시 구매가"},
+    {"code":"product12","image":"p_f3151aa8adbb47c08ce1b255b8e328b8.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"KYO","check":"","name":"KYO x Honz Print Tote Bag Blue","benefit1":"적립","benefit2":"무료배송","discount":"","price":170000,"kind":"즉시 구매가"}
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "New_Lowest_Asks":[
+    {"code":"product01","image":"a_3a7918e8dc0d4a408c403fe4a1ed4d47.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Stussy","check":"","name":"Stussy Melted T-Shirt White","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":80000,"kind":"즉시 구매가"},
+    {"code":"product02","image":"a_80ba59c1327740b68cb8e56833ba0c37.png","span":"./images/sec_wish/icon_wish.svg","brand":"Asics","check":"","name":"Asics Gel-1130 White Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":135000,"kind":"즉시 구매가"},
+    {"code":"product03","image":"a_9cbfbdbe690f419da1bfec670c4770f8.png","span":"./images/sec_wish/icon_wish.svg","brand":"Jordan","check":"","name":"Jordan 1 Retro High OG White Cement","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":124000,"kind":"즉시 구매가"},
+    {"code":"product04","image":"a_a2a00fa20584420e870daff5df9f9d36.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"Courreges","check":"","name":"Jordan 1 Retro High OG White Cement","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":269000,"kind":"즉시 구매가"},
+    {"code":"product05","image":"p_0ec4e132925345f48fa832f2283cf454.png","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"(W) Nike Dunk Low Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":129000,"kind":"즉시 구매가"},
+    {"code":"product06","image":"a_d8dc7818e7b24f4ab923f9c70ddb9b6e.png","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"(W) Nike Air Force 1 '07 Low Triple Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":114000,"kind":"즉시 구매가"},
+    {"code":"product07","image":"a_b0468529f5fa425ea92036ddf1cc5aaf.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"IAB Studio","check":"","name":"IAB Studio T-Shirt White Navy - 22FW","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":129000,"kind":"즉시 구매가"},
+    {"code":"product08","image":"a_19b5e7df88a54be8ab7fa2ecd38130e0.png","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"Nike Air Force 1 '07 Time Warp","benefit1":"","benefit2":"","price":141000,"kind":"즉시 구매가"},
+    {"code":"product09","image":"a_b5463a37d5184568a690c4f029acaa04.png","span":"./images/sec_wish/icon_wish.svg","brand":"Onitsuka Tiger","check":"","name":"Onitsuka Tiger Mexico 66 Slip-On Yellow Black","benefit1":"","benefit2":"","price":109000,"kind":"즉시 구매가"},
+    {"code":"product10","image":"a_234006fa45804fae85bc5933eb146f27.png","span":"./images/sec_wish/icon_wish.svg","brand":"Nike","check":"","name":"Nike Air Force 1 '07 Low Triple Black","benefit1":"a_82699e0f38f24003897bcfc6ee5c84eb.png","benefit2":"빠른배송","price":160000,"kind":"즉시 구매가"}
+    ]
+}

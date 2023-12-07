@@ -1,0 +1,14 @@
+{
+    "banner":[
+        {"code":"product01","image":"a_0b28889999074667822ee7426d8f7166.jpg"},
+        {"code":"product02","image":"a_94854f82939c419594d93715d2bce144.jpg"},
+        {"code":"product03","image":"a_14a76e3de618469583533decadbed563.jpg"},
+        {"code":"product04","image":"a_691c92971c8b4e7b82de8c15c8257d5b.jpg"},
+        {"code":"product05","image":"a_1c2d6635b7444c1980d2fdd6ce1ea97f.jpg"},
+        {"code":"product06","image":"a_45c3ae5d13d948d9bac47ec7ace73b3e.jpg"},
+        {"code":"product07","image":"a_9f290fd2075f4767b1e0826798c3f50e.jpg"},
+        {"code":"product08","image":"a_daef7fa9b8ca48818e1a613c4ed5aeb4.jpg"},
+        {"code":"product09","image":"a_bfb0e6cd701f48bc9975da657f691b71.jpg"},
+        {"code":"product10","image":"a_0baafcfb287a47028edf0203fbe2e2c0.jpg"}
+    ]
+}

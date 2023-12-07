@@ -1,0 +1,28 @@
+{
+    "Celeb_Shot":[
+        {"code":"product01","span1":"p_73a5a1f309f44e9180a45a70e626a15f.png","main":"p_a441b5f25eb54c6a8487fb3b1373d714.jpg","span2":"@wish1ist"},
+        {"code":"product02","span1":"p_01481e41e2e64e16b3e246e171ab1e30.jpeg","main":"p_dcadedb5333344909b289a2140c0ccc8.jpg","span2":"@girlsc0llection"},
+        {"code":"product03","span1":"p_73a5a1f309f44e9180a45a70e626a15f.png","main":"p_540f6a9451224693b75eed01735e64e0.jpg","span2":"@wish1ist"},
+        {"code":"product04","span1":"p_f19205cf711343038822cf8a315cedd6.jpeg","main":"p_398601ef93284b06ac99bf875e808fb8.jpg","span2":"@celeb_item"},
+        {"code":"product05","span1":"p_73a5a1f309f44e9180a45a70e626a15f.png","main":"p_5691ae1bc7234fa08d80112afe9c4d05.jpg","span2":"@wish1ist"},
+        {"code":"product06","span1":"p_814f5449ea374ca49db76fe6ac194fe9.jpeg","main":"p_bc53a27a51534efd9f63428b7eae00de.jpg","span2":"@luxury_style"},
+        {"code":"product07","span1":"p_01481e41e2e64e16b3e246e171ab1e30.jpeg","main":"p_e7477f6fdd2342fd83e0a92eb637500d.jpg","span2":"@girlsc0llection"},
+        {"code":"product08","span1":"p_6f0ccfad5a404a5a8645d7d219e6cb48.jpeg","main":"p_9649358e72004a619db2b7f7ec57f3b0.jpg","span2":"@sm_outfit"},
+        {"code":"product09","span1":"p_814f5449ea374ca49db76fe6ac194fe9.jpeg","main":"p_43999eb8e94145138f58c55c76deaea7.jpg","span2":"@luxury_style"},
+        {"code":"product10","span1":"p_6f0ccfad5a404a5a8645d7d219e6cb48.jpeg","main":"p_14f81412a1f1408cb37a67969b5e7331.jpg","span2":"@sm_outfit"},
+
+        {"code":"product11","span1":"p_814f5449ea374ca49db76fe6ac194fe9.jpeg","main":"p_6f45430bdb6144638845dd72292fdc62.jpg","span2":"@luxury_style"},
+        {"code":"product12","span1":"p_73a5a1f309f44e9180a45a70e626a15f.png","main":"p_d1efdb2471f644b1ac5e41236208ff98.jpg","span2":"@wish1ist"},
+        {"code":"product13","span1":"p_0bbc9ba528c648b89fb11789253390eb.png","main":"p_24a97b34c7b94f5faaed03abbc9b51ae.jpg","span2":"@Celeb_in_Airport"},
+        {"code":"product14","span1":"p_0211c22244f94d0f819827f03e2e493b.jpg","main":"p_1992f642634c465e98813967a77f5ebd.jpg","span2":"@archive_anything"},
+        {"code":"product15","span1":"p_01481e41e2e64e16b3e246e171ab1e30.jpeg","main":"p_bb991f4f22d147cf9276fb338fcde468.jpg","span2":"@girlsc0llection"},
+        {"code":"product16","span1":"p_814f5449ea374ca49db76fe6ac194fe9.jpeg","main":"p_d604c5d0f3ea4f29a03db28e93611f5b.jpg","span2":"@luxury_style"},
+        {"code":"product17","span1":"p_0bbc9ba528c648b89fb11789253390eb.png","main":"p_003474c92e694db0bd0c204b097f3b86.jpg","span2":"@Celeb_in_Airport"},
+        {"code":"product18","span1":"p_f19205cf711343038822cf8a315cedd6.jpeg","main":"p_c1adc0f1b7a04c26a76720b0938062a4.jpg","span2":"@celeb_item"},
+        {"code":"product18","span1":"p_73a5a1f309f44e9180a45a70e626a15f.png","main":"p_7d535fa8f35e4e4d8d7dff1288041feb.jpg","span2":"@wish1ist"},
+        {"code":"product19","span1":"p_0bbc9ba528c648b89fb11789253390eb.png","main":"p_f8bfa70c6dea47ac89fe0c9335174518.jpg","span2":"@Celeb_in_Airport"},
+
+        {"code":"product20","span1":"p_6f0ccfad5a404a5a8645d7d219e6cb48.jpeg","main":"p_80d8d0214d574cd3aa6abf7e9bbf19f4.jpg","span2":"@sm_outfit"}
+    ]
+}
+

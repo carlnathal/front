@@ -1,0 +1,104 @@
+#header {
+  width: 100%;
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  left: 0;
+  background: #fff;
+  > .container {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    > .gap {
+      width: 100%;
+      padding: 0 40px;
+      > .content {
+        width: 100%;
+        > .row1 {
+          padding: 8px 0 0 0;
+          width: 100%;
+          > .container {
+            ul {
+              display: flex;
+              align-items: center;
+              justify-content: end;
+              li {
+                .row1-link {
+                  margin: 0 0 0 25px;
+                  font-size: 12px;
+                  letter-spacing: -0.06px;
+                  color: rgba(34, 34, 34, 0.8);
+                }
+              }
+            }
+          }
+        }
+        > .row2 {
+          width: 100%;
+          padding: 20px 0;
+          > .container {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .logo-box {
+              a {
+                img {
+                  width: 120px;
+                  height: 24px;
+                }
+              }
+            }
+            .nav-box {
+              ul {
+                display: flex;
+                width: 362px;
+                height: 28px;
+                justify-content: space-between;
+                li {
+                  a {
+                    color: rgb(34, 34, 34);
+                    letter-spacing: -0.27px;
+                    font-size: 18px;
+                    line-height: 28px;
+                    img {
+                      width: 28px;
+                      height: 28px;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        > .row3 {
+          width: 100%;
+          ul {
+            display: flex;
+            margin: 0 0 10px 0;
+            li {
+              &:nth-child(1) {
+                a {
+                  margin: 0 10px 0 0;
+                }
+              }
+              a {
+                font-size: 16px;
+                font-weight: 400;
+                margin: 0 10px;
+                padding: 15px 0 6px;
+                color: #000;
+
+                &:focus {
+                  padding: 0 0 5px 0;
+                  border-bottom: 2px solid #000;
+                  font-weight: 700;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

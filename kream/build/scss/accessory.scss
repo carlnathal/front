@@ -1,0 +1,277 @@
+#accessory{
+    width: 100%;
+    .container{
+        width: 100%;
+        max-width: 1280px;
+        margin: 0 auto;
+        .gap{
+            padding: 0 40px;
+            .title{
+                width: 100%;
+                height: 66px;
+                padding: 16px 0 16px 0;
+                h1{
+                    font-size: 28px;
+                    font-weight: 600;
+                    color: #222;
+                    letter-spacing: -0.12px;
+                    text-align: center;
+                }
+            }
+            .content{
+                width: 100%;
+                .tap-container{
+                    width: 100%;
+                    height: 44px;
+                    .tap-inner{
+                        width: 100%;
+                        li{
+                            display: inline-flex;
+                            &:not(:first-child){
+                                margin-left: 27px;
+                            }
+                            a{
+                                padding-top: 15px;
+                                padding-bottom: 6px;
+                                height: 100%;
+                                border-bottom: 2px solid #fff;
+                                transition: all 0.3s ease-in-out; // JS 구현 후 삭제
+                                &.on{
+                                    font-weight: 700;
+                                    border-bottom: 2px solid #222;
+                                }
+                                span{
+                                    font-size: 16px;
+                                    line-height: 1.25;
+                                    text-align: left;
+                                    min-width: auto;
+                                    min-height: auto;
+                                }
+                                &:hover{ // #########################기능 구현
+                                    font-weight: 700;
+                                    border-bottom: 2px solid #222;
+                                }
+                            }
+                        }
+                    }
+                }
+                .filter-group__container{
+                    width: 100%;
+                    height: 66px;
+                    border-bottom: 1px solid #f0f0f0;
+                    padding: 16px 0;
+                    display: flex;
+                    flex-wrap: nowrap;
+                    overflow-x: auto;
+                    position: relative;
+                    align-items: center;
+                    .filter-group__filter{
+                        padding-left: 0;
+                        padding-right: 37px;
+                        gap: 16px 8px;
+                        label{
+                            width: 100%;
+                            input{
+                                width: 0;
+                                height: 0;
+                                padding: 0;
+                                outline: 0;
+                                border: 0;
+                                resize: none;
+                                border-radius: 0;
+                            }
+                            a{
+                                font-size: 14px;
+                                font-weight: 500;
+                                color: rgba(34,34,34,.8);
+                                border: 1px solid #f0f0f0;
+                                border-radius: 30px;
+                                padding: 7px 16px;
+                                line-height: 17px;
+                                cursor: pointer;
+                                transition: all 0.3s ease-in-out;
+                                &.on{
+                                    border: 0;
+                                    font-weight: 600;
+                                    color: #fff;
+                                    background-color: #222;
+                                }
+                                &:hover{
+                                    border: 0;
+                                    font-weight: 600;
+                                    color: #fff;
+                                    background-color: #222;
+                                }
+                            }
+                        }
+                    }
+                }
+                .sort-container{
+                    width: 100%;
+                    height: 37px;
+                    margin-top: 16px;
+                    .sort-list{
+                        width: 100%;
+                        height: 100%;
+                        padding: 4px 0 16px;
+                        display: flex;
+                        justify-content: flex-end;
+                        li{
+                            &:first-child{ // ######################### JS기능 구현
+                                font-weight: 700;
+                                color: #222;
+                            }
+                            &:last-child::before{
+                                content: "";
+                                margin: 0 12px;
+                                width: 1px;
+                                height: 10px;
+                                background-color: #ebebeb;
+                                align-self: center;
+                            }
+                            button{
+                                font-size: 14px;
+                                line-height: 17px;
+                                letter-spacing: -0.21px;
+                                color: rgba(34,34,34,.8);
+                                border: 0;
+                                &:focus{
+                                    font-size: 14px;
+                                    font-weight: 600;
+                                    color: rgb(34, 34, 34);
+                                }
+                            }
+                        }
+                    }
+                }
+                .feed-container{
+                    width: 100%;
+                    margin-top: 28px;
+                    .feed-container__inner{
+                        margin-bottom: 50px;
+                        // column-count: 4;
+                        // display: grid;
+                        // grid-template-columns: repeat(4,1fr);
+                        // grid-template-rows: repeat(auto-fill, minmax(auto,1fr));
+                        // column-gap: 20px;
+                        // row-gap: 44px;
+                        column-count: 4;
+                        row-gap: 20px;
+                        .feed-container__item{
+                            display: block;
+                            position: relative;
+                            padding-bottom: 44px;
+                            .card-box{
+                                width: 100%;
+                                height: 100%;
+                                overflow: hidden;
+                                .card-box__img{
+                                    width: 100%;
+                                    img{
+                                        display: block;
+                                        max-width: 100%;
+                                        border-radius: 10px;
+                                    }
+                                }
+                                .card-box__detail{
+                                    padding: 8px 4px 0;
+                                    .card-box__user{
+                                        width: 100%;
+                                        display: flex;
+                                        align-items: center;
+                                        img{
+                                            width: 100%;
+                                            max-width: 28px;
+                                            height: 100%;
+                                            max-height: 28px;
+                                            border-radius: 50%;
+                                            border: 1px solid rgba(34,34,34,0.1);
+                                            overflow: hidden;
+                                        }
+                                        p{
+                                            width: 100%;
+                                            margin-left: 4px;
+                                            margin-right: 6px;
+                                            font-size: 15px;
+                                            letter-spacing: -0.15px;
+                                            color: rgba(34,34,34,.8);
+                                            white-space: nowrap;
+                                            text-overflow: ellipsis;
+                                        }
+                                        button{
+                                            display: flex;
+                                            align-items: center;
+                                            border: 0;
+                                            position: relative;
+                                            &::before{
+                                                content: "";
+                                                position: absolute;
+                                                top: -6px;
+                                                right: -6px;
+                                                bottom: -6px;
+                                                left: -6px;
+                                            }
+                                            p{
+                                                width: 20px;
+                                                height: 20px;
+                                            }
+                                            span{
+                                                font-size: 15px;
+                                                color: rgba(34,34,34,0.5);
+                                                padding-left: 3px;
+                                            }
+                                        }
+                                    }
+                                    .card-box__text{
+                                        height: 40px;
+                                        font-size: 14px;
+                                        line-height: 20px;
+                                        margin-top: 6px;
+                                        letter-spacing: -.21px;
+                                        overflow: hidden;
+                                        text-overflow: ellipsis;
+                                    }
+                                }
+                            }
+                            .img-count{
+                                position: absolute;
+                                top: 8px;
+                                right: 8px;
+                                background-color: rgba(34,34,34,0.5);
+                                border-radius: 20px;
+                                span{
+                                    display: block;
+                                    padding: 3px 6px;
+                                    font-size: 12px;
+                                    font-weight: 600;
+                                    letter-spacing: -.33px;
+                                    color: #fff;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// @media screen and (max-width:700px){
+//     .feed-container__item { width: 50%; }
+// }
+
+@media screen and (max-width: 720px) {
+    .feed-container__inner {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .feed-container__inner {
+        display: block;
+    }
+
+    .feed-container__item {
+        margin-bottom: var(--gap);
+    }
+}

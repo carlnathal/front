@@ -1,0 +1,40 @@
+@import url('../css/fonts.css');
+@import url('../css/reset.css');
+@import url('../css/skip.css');
+@import url('../css/header.css');
+@import url('../css/shop_main_header.css');
+@import url('../css/shop_main_header_slide.css');
+@import url('../css/shop_main_content.css');
+
+@import url('./secStyle.css');
+
+/////////////////////////category Section
+@import url('./ranking.css');
+@import url('./exhibitions.css');
+@import url('./sneakers.css');
+@import url('./adya.css');
+@import url('./luxury.css');
+@import url('./clothing.css');
+@import url('./bags.css');
+@import url('./accessory.css');
+@import url('./collectable.css');
+
+/////////////////////////sub Section
+@import url('./tag1.css');
+@import url('./innerFeed.css');
+@import url('./search.css');
+@import url('../css/footer.css');
+
+#root {
+  > #wrap {
+    width: 100%;
+    position: relative;
+    padding: 92.095px 0 0 0;
+    #home {
+      position: relative;
+      top: -92.095px;
+    }
+  }
+}
+
+

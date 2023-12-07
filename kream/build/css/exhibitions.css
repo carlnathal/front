@@ -1,0 +1,111 @@
+#exhibitions {
+  width: 100%;
+}
+#exhibitions .container {
+  width: 100%;
+  margin: 0 auto;
+  border-bottom: 1px solid #fafafa;
+}
+#exhibitions .container .gap {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 160px;
+}
+#exhibitions .container .gap .exhibition__bg {
+  background-color: #ff5926;
+}
+#exhibitions .container .gap .exhibition__bg .img__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+#exhibitions .container .gap .exhibition__bg .img__container .img__link {
+  padding-top: 50px;
+}
+#exhibitions .container .gap .exhibition__bg .img__container img {
+  width: 100%;
+  height: 100%;
+}
+#exhibitions .container .gap .exhibition__img {
+  background-color: #eeecdd;
+}
+#exhibitions .container .gap .exhibition__img .img__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+#exhibitions .container .gap .exhibition__img .img__container .img__link {
+  padding-top: 0;
+}
+#exhibitions .container .gap .exhibition__img .img__container img {
+  width: 100%;
+  height: 100%;
+}
+#exhibitions .container .gap .exhibition__img .img__container a {
+  inset: 80% 32%;
+  display: block;
+  position: absolute;
+  z-index: 2;
+  padding: 35px 200px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#exhibitions .container .gap .exhibition__img .img__container a span {
+  text-align: center;
+}
+#exhibitions .container .gap .exhibition__warning .warning__container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+#exhibitions .container .gap .exhibition__warning .warning__container h3 {
+  font-size: 20px;
+  font-weight: 700;
+  padding-top: 40px;
+}
+#exhibitions .container .gap .exhibition__warning .warning__container .waring__list {
+  margin-top: 20px;
+}
+#exhibitions .container .gap .exhibition__warning .warning__container .waring__list li {
+  position: relative;
+  font-size: 16px;
+  padding-left: 12px;
+  color: rgba(34, 34, 34, 0.5);
+}
+#exhibitions .container .gap .exhibition__warning .warning__container .waring__list li::before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 4px;
+  height: 4px;
+  background-color: rgba(34, 34, 34, 0.5);
+  border-radius: 50%;
+}
+#exhibitions .container .gap .exhibition__warning .warning__container .waring__list li:not(:first-child) {
+  margin-top: 10px;
+}
+#exhibitions .container .gap .exhibition__share {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 50px;
+}
+#exhibitions .container .gap .exhibition__share button {
+  text-align: center;
+  width: 260px;
+  height: 60px;
+  font-size: 18px;
+  color: #222;
+  background-color: #fff;
+  border: 1px solid #d3d3d3;
+  border-radius: 100px;
+  cursor: pointer;
+}
+#exhibitions .container .gap .exhibition__share button i {
+  margin-right: 10px;
+  font-size: 20px;
+}

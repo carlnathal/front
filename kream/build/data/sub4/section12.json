@@ -1,0 +1,17 @@
+{
+    "Millo":[
+    {"code":"product01","image":"p_d012ef5e18764687a4bed49593f2519a.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"icon-check.svg","name":"Millo Idear Idea Mesh Cap Black","benefit1":"적립","benefit2":"무료배송","discount":"10%","price": 43200 ,"kind":"구메가"},
+    {"code":"product02","image":"p_f2aa1aeb90b244a8a16d29b867c2f266.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Denim Bermuda Pants Mid Blue","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":64800,"kind":"구메가"},
+    {"code":"product03","image":"p_390e6590e51f4694b7c044a16410a433.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Panoramic Track Jersey White Green","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":64800,"kind":"구메가"},
+    {"code":"product04","image":"a_5e3ca62d6dd74b449984a5d3f9ba0239.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Glossy String Bag Black","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":43200,"kind":"구매가"},
+    {"code":"product05","image":"p_6f12680af8e04f94bef68cf71068325e.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Parcel Ball Cap Navy","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":37800,"kind":"구메가"},
+    {"code":"product06","image":"p_78492e3b6e16449b84c89741e9b4e954.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Reflect Curved Damage Pants Light Blue","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":97200,"kind":"구매가"},
+    {"code":"product07","image":"p_bad12e090568480fa48d04caedf0a366.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Clare Knit Vest Zip Up Ivory","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":88200,"kind":"구메가"},
+    {"code":"product08","image":"p_d3d7e6333fe441fa973061ebbf890aa8.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Minimalist Bermuda Half Pants Charcoal","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":70200,"kind":"구메가"},
+    {"code":"product09","image":"p_ad445e47098f4aeea65eb79d84dfd5a8.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Identity T-Shirt Black","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":43200,"kind":"구메가"},
+    {"code":"product10","image":"p_14a959ea2b8f4758b23feb3ee3318ab2.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo New Division Ball Cap Green","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":40500,"kind":"구메가"},
+
+    {"code":"product11","image":"p_43a1bf58ec6f43ea8fbcdcae9f42cf31.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Slant Knit Zip Up Pale Blue","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":97200,"kind":"구메가"},
+    {"code":"product12","image":"p_ceac0d860ee6464f9b4a73ba19815066.jpg","span":"./images/sec_wish/icon_wish.svg","brand":"MILLO","check":"","name":"Millo Holiday Signature Ball Cap Fade Gray","benefit1":"적립","benefit2":"무료배송","discount":"10%","price":35100,"kind":"구메가"}
+    ]
+}
